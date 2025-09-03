@@ -83,6 +83,8 @@ celerybeat-schedule.*
 *.sage.py
 # Environments
 .env*
+db.sqlite3
+env/
 !.env.example*
 .venv
 env/
